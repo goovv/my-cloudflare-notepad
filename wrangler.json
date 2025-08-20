@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "my-cloudflare-notepad",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "774a68f7-a3a5-42d6-b3e0-f444ab2383a6",
+      "database_name": "my-notepad-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
